@@ -2,6 +2,8 @@
      Office Activate 2016
  </h1 >   
 
+`Save the file as .bat`
+
 ```
 @echo off
 title Activate Microsoft Office 2016 ALL versions for FREE!&cls&echo =====================================&echo #Copyright: MSGuides.com&echo =====================================&echo.&echo #Supported products:&echo - Microsoft Office Standard 2016&echo - Microsoft Office Professional Plus 2016&echo.&echo.
@@ -28,4 +30,4 @@ pause
 ```
 ##
 
-`Save the file as .bat`
+
