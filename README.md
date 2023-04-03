@@ -30,4 +30,22 @@ pause
 ```
 ##
 
+<h1 align="center">
+     ou
+</h1>
+
+Execute no cmd
+
+`CD\Arquivos de Programas\Microsoft Office\Office16`
+
+Depois
+
+`cscript ospp.vbs /sethst:kms01.cit.cornell.edu`
+
+E assim
+
+`cscript ospp.vbs /act`
+
+Pronto, está ativado
+
 
