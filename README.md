@@ -2,7 +2,7 @@
      Office Activate 2016
  </h1 >   
 
-`Save the file as .bat`
+`Execute no cmd como administrador`
 
 ```
 cscript ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
